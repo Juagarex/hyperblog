@@ -28,6 +28,7 @@ margin:  0  0 0 1em ;
 
 
 #container{
+
  text-align: left;
  width: 70%;
  padding: 0;
@@ -57,3 +58,10 @@ padding: 0.5em;
     width: 20px;
     vertical-align: middle;
 }
+
+
+
+     #container-img{
+         display: flex;
+     justify-content: center;
+ }
